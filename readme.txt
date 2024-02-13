@@ -14,9 +14,15 @@ twitter handle
 
 
 Magmerge kog balik
+<<<<<<< HEAD
 >>>>>>> addTwitterHandle
 
 
 
 
 123456
+=======
+
+
+please gana 
+>>>>>>> addTwitterHandle
